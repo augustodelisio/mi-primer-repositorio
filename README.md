@@ -1,2 +1,3 @@
-# mi-primer-repositorio
-SGDPV - Actividad 1 Git
+Nombre: Augusto
+Apellido: De Lisio
+Legajo: 41230
