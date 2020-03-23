@@ -1,0 +1,1 @@
+Reforzar mis conocimientos de python y aprender a interactuar con bases de datos.
